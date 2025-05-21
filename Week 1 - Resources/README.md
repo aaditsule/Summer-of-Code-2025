@@ -1,6 +1,6 @@
 # **Python Basics!**
 
-For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook]().  
+For all those looking to learn python from scratch , you can begin with the material given below, while those of you who are already familiar with python and are just looking to revise can go through [this notebook](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%201%20-%20Resources/01-Basics%20of%20Python.ipynb).  
 
 For the first week we will be covering some basic topics:
 * [Getting Started](#getting-started)
@@ -29,7 +29,7 @@ Now, we will look at Applications of Python in Data Analysis fields and will cov
 
 Now we will look into the fundamental concepts of the stock market.
 
-Go through this module on Basic of Stock Market by Zerodha Varsity : [Module]()
+Go through this module on Basic of Stock Market by Zerodha Varsity : [Module](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%201%20-%20Resources/05-Module-Introduction%20to%20Stock%20Markets.pdf)
 
 You can also watch this playlist, incase you prefer videos over reading : [Youtube](https://youtube.com/playlist?list=PLX2SHiKfualH9XGLv9r1sdKucoGky35J7&si=4d6Z09cz7cmtBa-a)
 
@@ -188,7 +188,7 @@ Once you are done with the installation part , you can use it by importing it in
   
 ### Getting Started With Numpy
 
-Check this [notebook]() to get basic knowledge of Numpy.Relevant links to websites and documentations have been provided in the notebook itself.  
+Check this [notebook](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%201%20-%20Resources/02-NumPy.ipynb) to get basic knowledge of Numpy.Relevant links to websites and documentations have been provided in the notebook itself.  
 
 
 
@@ -207,7 +207,7 @@ Pandas take data in a CSV or TSV file or a SQL database and create a Python obje
 
 ### Getting Started With Pandas
 
-Check this [notebook]() to get basic knowledge of Pandas. Relevant links to websites and documentations have been provided in the notebook itself.  
+Check this [notebook](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%201%20-%20Resources/03-Pandas.ipynb) to get basic knowledge of Pandas. Relevant links to websites and documentations have been provided in the notebook itself.  
 
 
 
@@ -223,7 +223,7 @@ Once you are done with the installation part , you can use it by importing it in
 
 ### Getting Started With Matplotlib
 
-Check this [notebook]() to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.  
+Check this [notebook](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%201%20-%20Resources/04-Matplotlib.ipynb) to get basic knowledge of Pandas .Relevant links to websites and documentations have been provided in the notebook itself.  
 
  
  
