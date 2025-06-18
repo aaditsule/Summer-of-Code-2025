@@ -1,6 +1,6 @@
 # Week 2 Assignment
 
-Based on Content of Week 1, there are **5 assignments** to be completed.
+Based on Content of Week 3, there are **3 assignments** to be completed.
 
 ## Instructions:
 1. **Download** the provided `.ipynb` files.
@@ -11,24 +11,13 @@ Based on Content of Week 1, there are **5 assignments** to be completed.
 
 ## How to Submit
 
-You are required to upload your solutions to a **GitHub repository**. Follow the steps below:
+You are required to upload your solutions to your **GitHub repository** that you have already created. Follow the steps below:
 
-### Step 1: Create a GitHub Repository
-
-1. Go to [https://github.com](https://github.com).
-2. Log in to your account (or sign up if you don’t have one).
-3. Click the **“+”** icon in the top-right corner and select **“New repository”**.
-4. Name your repository.
-5. Add a description (Optional).
-6. Keep the repository **public**.
-7. Click **“Create repository”**.
-
-
-### Step 2: Upload Your Files
+### Upload Your Files
 
 #### Option A: Upload via GitHub Website
 
-1. Open your newly created repository.
+1. Open your existing repository.
 2. Click **“Add file” → “Upload files”**.
 3. Drag and drop or browse to select your completed `.ipynb` files.
 4. Click **“Commit changes”** to upload.
