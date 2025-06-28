@@ -9,10 +9,10 @@ Neural networks are a class of machine learning techniques in which a computer l
 [**Here**](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&si=sD11yZ8JipPpnL4o) is a YouTube playlist that explains neural networks very nicely, do go through it!
 
 GO through the following PDFs provided: 
-1. [**Neural Networks**](https://github.com/aaditsule/Stock-Price-Prediction-Using-LSTM/blob/main/Week%203%20Resources/01-NeuralNetworks.pdf)
-2. [**Gradient Descent**](https://github.com/aaditsule/Stock-Price-Prediction-Using-LSTM/blob/main/Week%203%20Resources/02-Gradient%20Descent.pdf)
-3. [**Backpropagation**](https://github.com/aaditsule/Stock-Price-Prediction-Using-LSTM/blob/main/Week%203%20Resources/03-Backpropagation%20in%20NN.pdf)
-4. [**CNN**](https://github.com/aaditsule/Stock-Price-Prediction-Using-LSTM/blob/main/Week%203%20Resources/04-Convolutional%20Neural%20Networks.pdf)
+1. [**Neural Networks**](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%205%20-%20Resources/01-NeuralNetworks.pdf  )
+2. [**Gradient Descent**](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%205%20-%20Resources/02-Gradient%20Descent.pdf)
+3. [**Backpropagation**](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%205%20-%20Resources/03-Backpropagation%20in%20NN.pdf)
+4. [**CNN**](https://github.com/aaditsule/Summer-of-Code-2025/blob/main/Week%205%20-%20Resources/04-Convolutional%20Neural%20Networks.pdf)
 
 ## PyTorch
 
